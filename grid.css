@@ -47,3 +47,12 @@ body{
     grid-column-start: 3;
     grid-column-end: 6;
 }
+nav a{
+    width: 20%;
+    color: white;
+    border-radius:25px;
+    padding: 10px;
+    margin-top:62px;
+    margin-left: 21px;
+    background-color: rgb(63, 16, 59);
+}
